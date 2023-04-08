@@ -1,0 +1,10 @@
+zip/
+xml/
+config/
+venv/
+.vscode
+.idea/ 
+log/
+server/parser_microserv/venv
+__pycache__/
+server/parser_microserv/config.yaml
