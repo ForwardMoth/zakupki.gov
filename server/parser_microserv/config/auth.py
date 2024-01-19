@@ -19,9 +19,8 @@ all_regions = ["Adygeya_Resp", "Altayskii__krai", "Arhangelskaya_obl", "Astrahan
            'Tverskaya_obl',  'Udmurtskaya_Resp', 'Ulianovskaya_obl', 'Vladimirskaya_obl', 'Volgogradskaya_obl',
            'Vologodskaya_obl', 'Voronezhskaya_obl']
 
-
-
-
+dict_regions = {'Chukotskii_AO': "Чукотский автономный округ", 'Baikonur_g': 'г. Байконур', 'Moskva': 'г. Москва',
+                'Adygeya_Resp': "Республика Адыгея"}
 
 notice_directories = ['purchaseNotice', 'purchaseNoticeAE', 'purchaseNoticeAE94', 'purchaseNoticeAESMBO',
                       'purchaseNoticeEP', 'purchaseNoticeIS', 'purchaseNoticeKESMBO', 'purchaseNoticeOA',
